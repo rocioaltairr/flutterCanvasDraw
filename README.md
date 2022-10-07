@@ -1,16 +1,15 @@
 # noa_app
 
-A new Flutter project.
+Flutter project.
 
-## Getting Started
+# Draw your own T-Shirt desing.
 
-This project is a starting point for a Flutter application.
+Contain undo, redo, erase and color picker function
 
-A few resources to get you started if this is your first Flutter project:
+![Simulator Screen Shot - iPhone 13 - 2022-10-08 at 01 18 22](https://user-images.githubusercontent.com/42332771/194614836-9733e2b7-6a84-41ec-9df5-9a678ce65582.png)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Simulator Screen Shot - iPhone 13 - 2022-10-08 at 01 19 07](https://user-images.githubusercontent.com/42332771/194614819-17e4f9f4-3b62-467b-bf15-c04b559fd0aa.png)
+
+
+![Simulator Screen Recording - iPhone 13 - 2022-10-08 at 01 32 57](https://user-images.githubusercontent.com/42332771/194617924-0618641e-01ee-4893-8201-a5342d157b65.gif)
